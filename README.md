@@ -38,5 +38,5 @@ The notebook generates a relational dataset containing customers, products, and 
 - `Retail_Sales_Intelligence_System_SQL.ipynb` — analysis, SQL queries, and visualizations.
 
 ## Author
-Sanjay Renukuntla
+Krishna Kashyap
 
